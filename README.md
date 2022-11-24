@@ -29,3 +29,29 @@
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-3/blob/main/Ejercicio%2013%20cap%205.PNG)<br /><br />
 **15. Si en la figura 5-72 la resistencia total es de 17.4 kΩ, ¿cuál es el valor de R5?**<br />
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-3/blob/main/Ejercicio%2015%20cap%205.PNG)<br /><br />
+**17. En la figura 5-71, encuentre la resistencia total si los tres circuitos están conectados en serie.**<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-3/blob/main/Ejercicio%2017%20cap%205.PNG)<br /><br />
+**•	Sección 5.4 Aplicación de la ley de Ohm**<br />
+**19. ¿Cuál es la corriente presente en cada circuito de la figura 5-74?**<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-3/blob/main/Ejercicio%2019%20cap%205.PNG)<br /><br />
+**21. 	Se conectan tres resistores de 470 Ω en serie con una fuente de 48 V.**<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-3/blob/main/Ejercicio%2021%20cap%205.PNG)<br /><br />
+**23. 	¿Cuál es el valor de cada resistor mostrado en la figura 5-75?**<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-3/blob/main/Ejercicio%2023%20cap%205.PNG)<br /><br />
+**25. 	En el circuito de la figura 5-77, el medidor lee 7.84 mA cuando el interruptor está en la posición A.**<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-3/blob/main/Ejercicio%2025%20cap%205.PNG)<br /><br />
+**•	Sección 5.5 Fuentes de voltaje en serie**<br />
+**27. 	Ayuda en serie es un término utilizado en ocasiones para describir fuentes de voltaje de la misma polaridad en serie. Si una fuente de 5 V y otra de 9 V están conectadas de esta manera, ¿cuál es el voltaje total?.**<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-3/blob/main/Ejercicio%2027%20cap%205.PNG)<br /><br />
+**29. 	Determine el voltaje de fuente total en cada circuito de la figura 5-79.**<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-3/blob/main/Ejercicio%2029%20cap%205.PNG)<br /><br />
+**•	Sección 5.6 Ley del voltaje de Kirchhoff**<br />
+**31. 	Cinco resistores están dispuestos en serie con una fuente de 20 V. Las caídas de voltaje a través de cuatro de los resistores son: 1.5 V, 5.5 V, 3 V, y 6 V. ¿Cuál es la caída de voltaje en el quinto resistor?**<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-3/blob/main/Ejercicio%2031%20cap%205.PNG)<br /><br />
+**33. 	En el circuito de la figura 5-81, determine la resistencia de R4**<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-3/blob/main/Ejercicio%2033%20cap%205.PNG)<br /><br />
+**35. 	Determine el voltaje a través de R5 para cada una de las posiciones del interruptor de la figura 5-83. La corriente en cada posición es como sigue: A, 3.35 mA; B, 3.73 mA; C, 4.50 mA; D, 6.00 mA.**<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-3/blob/main/Ejercicio%2035%20cap%205.PNG)<br /><br />
+**•	Sección 5.7 Divisores de voltaje**<br />
+**37. 		La resistencia total de un circuito es de 560 Ω. ¿Qué porcentaje del voltaje total aparece a través de un resistor de 27Ω que forma parte de la resistencia total en serie?**<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-3/blob/main/Ejercicio%2037%20cap%205.PNG)<br /><br />
