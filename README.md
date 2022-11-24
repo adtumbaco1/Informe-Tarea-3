@@ -10,4 +10,4 @@
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-3/blob/main/Teoria%20cap%206.png)<br /><br />
 **3. Problemas (IMPARES)**<br />
 **3.1  Capítulo 5**<br /><br />
-**•	Sección 5.1 Circuito en serie**<br />
+**•	Sección 5.1 Resistores en serie**<br />
