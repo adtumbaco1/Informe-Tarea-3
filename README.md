@@ -21,3 +21,11 @@
 **7.	La corriente suministrada por la fuente en la figura 5-70 es de 5 mA. ¿Cuánta corriente indica cada miliamperímetro localizado en el circuito?**<br />
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-3/blob/main/Ejercicio%207%20cap%205.PNG)<br /><br />
 **9.	Con baterías de 1.5 V, un interruptor, y tres lámparas, disponga un circuito para aplicar 4.5 V a través de cualquier lámpara, de dos lámparas en serie, o de tres lámparas en serie con un solo interruptor de control. Trace el diagrama esquemático.**<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-3/blob/main/Ejercicio%209%20cap%205.PNG)<br /><br />
+**•	Sección 5.3 Resistencia total en serie**<br />
+**11.	Encuentre la resistencia total de los siguientes grupos de resistores en serie:**<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-3/blob/main/Ejercicio%2011%20cap%205.PNG)<br /><br />
+**13. ¿Cuál es la resistencia total de doce resistores de 5.6 kΩ dispuestos en serie?**<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-3/blob/main/Ejercicio%2013%20cap%205.PNG)<br /><br />
+**15. Si en la figura 5-72 la resistencia total es de 17.4 kΩ, ¿cuál es el valor de R5?**<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-3/blob/main/Ejercicio%2015%20cap%205.PNG)<br /><br />
