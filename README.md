@@ -7,7 +7,7 @@
 •	Aprender sobre los circuitos en paralelo, cuáles son sus fórmulas para calcular el voltaje, corriente y resistencia total en los circuitos en paralelo, también sobre la ley de corrientes de Kirchhoff, sus divisores de corriente y como aplicar la ley de Ohm en estos circuitos.<br /><br />
 **2. Marco teórico (Resumen)**<br /><br />
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-3/blob/main/Teoria%20Cap%205.png)<br /><br />
-![alt text](https://github.com/adtumbaco1/Informe-Tarea-2/blob/main/Teoria%20cap%204.PNG)<br /><br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-3/blob/main/Teoria%20cap%206.png)<br /><br />
 **3. Problemas (IMPARES)**<br />
 **3.1  Capítulo 5**<br /><br />
 **•	Sección 5.1 Circuito en serie**<br />
