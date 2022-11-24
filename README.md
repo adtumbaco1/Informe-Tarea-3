@@ -13,3 +13,11 @@
 **•	Sección 5.1 Resistores en serie**<br />
 **1.	Conecte en serie cada juego de resistores mostrado en la figura 5-67 entre los puntos A y B.**<br />
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-3/blob/main/Ejercicio%201%20cap%205.PNG)<br /><br />
+**3.	Determine la resistencia nominal presente entre las puntas 1 y 8 del circuito de la figura 5-68.**<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-3/blob/main/Ejercicio%203%20cap%205.PNG)<br /><br />
+**5.	En la tarjeta de circuito impreso de doble cara mostrada en la figura 5-69, identifique cada grupo de resistores en serie. Observe que muchas de las interconexiones de la tarjeta van de la cara anterior a la cara posterior.**<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-3/blob/main/Ejercicio%205%20cap%205.PNG)<br /><br />
+**•	Sección 5.2 Corriente en un circuito en serie**<br />
+**7.	La corriente suministrada por la fuente en la figura 5-70 es de 5 mA. ¿Cuánta corriente indica cada miliamperímetro localizado en el circuito?**<br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-3/blob/main/Ejercicio%207%20cap%205.PNG)<br /><br />
+**9.	Con baterías de 1.5 V, un interruptor, y tres lámparas, disponga un circuito para aplicar 4.5 V a través de cualquier lámpara, de dos lámparas en serie, o de tres lámparas en serie con un solo interruptor de control. Trace el diagrama esquemático.**<br />
