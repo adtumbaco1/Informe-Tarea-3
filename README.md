@@ -12,4 +12,4 @@
 **3.1  Capítulo 5**<br /><br />
 **•	Sección 5.1 Resistores en serie**<br />
 **1.	Conecte en serie cada juego de resistores mostrado en la figura 5-67 entre los puntos A y B.**<br />
-![alt text](https://github.com/adtumbaco1/Informe-Tarea-3/blob/main/Teoria%20Cap%205.png)<br /><br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-3/blob/main/Ejercicio%201%20cap%205.PNG)<br /><br />
