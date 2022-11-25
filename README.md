@@ -51,7 +51,12 @@
 **33. 	En el circuito de la figura 5-81, determine la resistencia de R4**<br />
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-3/blob/main/Ejercicio%2033%20cap%205.PNG)<br /><br />
 **35. 	Determine el voltaje a través de R5 para cada una de las posiciones del interruptor de la figura 5-83. La corriente en cada posición es como sigue: A, 3.35 mA; B, 3.73 mA; C, 4.50 mA; D, 6.00 mA.**<br />
-![alt text](https://github.com/adtumbaco1/Informe-Tarea-3/blob/main/Ejercicio%2035%20cap%205.PNG)<br /><br />
-**•	Sección 5.7 Divisores de voltaje**<br />
-**37. 		La resistencia total de un circuito es de 560 Ω. ¿Qué porcentaje del voltaje total aparece a través de un resistor de 27Ω que forma parte de la resistencia total en serie?**<br />
-![alt text](https://github.com/adtumbaco1/Informe-Tarea-3/blob/main/Ejercicio%2037%20cap%205.PNG)<br /><br />
+![alt text](https://github.com/adtumbaco1/Informe-Tarea-3/blob/main/Ejercicio%2035%20cap%205.PNG)<br /><br /> 
+**4.  Video**<br /> 
+https://youtu.be/WS9Wl_8AAKI<br /> 
+**5. Conclusiones**<br /> 
+• Reconocer los circuitos en serie, como calcular sus fuentes, resistencias y corrientes en serie aplicando las  fórmulas de acuerdo a cada caso.<br /> 
+• Conocer el uso y la forma de aplicar los conocimientos adquiridos en la parte practica y calcular los valores que necesitamos y como aplicar las leyes de Kirchhoff.<br /> 
+**6. Bibliografia**<br /> 
+Floyd, T. L. (2007). Circuitos en serie. En T. L. Floyd, Principios de circuitos eléctricos (págs. 117-171). México: Pearson Educación de México, S.A. de C.V.<br /> 
+Floyd, T. L. (2007). Circuitos en paralelo. En T. L. Floyd, Principios de circuitos eléctricos (págs. 172-225). México: Pearson Educación de México , S.A. de C.V.<br /> 
